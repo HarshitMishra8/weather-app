@@ -133,7 +133,7 @@ const Index = () => {
                     <Satellite className="h-8 w-8 text-primary" />
                   </div>
                   <div className="text-left">
-                    <h1 className="text-3xl md:text-5xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
+                    <h1 className="text-3xl md:text-5xl font-bold text-gray-900 dark:text-gray-100">
                       AirScan India
                     </h1>
                     <p className="text-lg opacity-90">ISRO Satellite-Based Air Quality Monitor</p>
